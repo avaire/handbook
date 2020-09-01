@@ -17,7 +17,3 @@ A sample project to let you see what makes VuePress so great!
 ## Contributing
 
 This site is built on [VuePress](https://vuepress.vuejs.org/). Please see their [Guide](https://vuepress.vuejs.org/guide/) for more information on how it works.
-
-## Deployment
-
-If you haven't tried it yet, [Netlify](https://www.netlify.com) is highly recommended!
