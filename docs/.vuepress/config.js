@@ -39,8 +39,8 @@ module.exports = {
       collapsable: false,
       title: '👮‍♂️ Middlewares',
       children: ['/middlewares/what-is-a-middleware', '/middlewares/create-your-first-middleware', '/middlewares/register-and-use-your-middleware'],
-    },
-    {
+     },
+/*    {
       collapsable: true,
       title: '💿 Database',
       children: ['/get-started/prerequisites.md'],
@@ -59,7 +59,7 @@ module.exports = {
       collapsable: true,
       title: '🔧 Configuration System',
       children: ['/get-started/prerequisites.md'],
-    },
+    }, */
 
   ],
 
