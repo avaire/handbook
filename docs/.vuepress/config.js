@@ -26,19 +26,19 @@ module.exports = {
 
     ],
     sidebar: [{
-      collapsable: true,
+      collapsable: false,
       title: '🚀 Getting Started',
       children: ['/get-started/getting-started'],
     },
     {
-      collapsable: true,
+      collapsable: false,
       title: '🤖 Commands',
-      children: ['/get-started/prerequisites.md'],
+      children: ['/commands/create-your-first-command'],
     },
     {
-      collapsable: true,
+      collapsable: false,
       title: '👮‍♂️ Middlewares',
-      children: ['/get-started/prerequisites.md'],
+      children: ['/middlewares/what-is-a-middleware', '/middlewares/create-your-first-middleware', '/middlewares/register-and-use-your-middleware'],
     },
     {
       collapsable: true,
